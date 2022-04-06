@@ -311,7 +311,7 @@ var mapDomWidth = 1000;
 var mapDomHeight = 1000;
 var element = document.getElementById("map");
 element.style.width = mapDomWidth + "px";
-element.style.height = mapDomWidth + "px";
+element.style.height = mapDomHeight + "px";
 element.style.opacity = 1;
 
 //map
